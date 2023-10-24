@@ -1,0 +1,2 @@
+/Users/frag-games/Desktop/GRPC/Server/PrimeServer/obj/Debug/net7.0/PrimeServer.csproj.AssemblyReference.cache
+/Users/frag-games/Desktop/GRPC/Server/PrimeServer/obj/Debug/net7.0/PrimeServer.GeneratedMSBuildEditorConfig.editorconfig

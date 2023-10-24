@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/frag-games/Desktop/grpc/Client/PrimeClient/PrimeClient.csproj": {}
+  },
+  "projects": {
+    "/Users/frag-games/Desktop/grpc/Client/PrimeClient/PrimeClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/frag-games/Desktop/grpc/Client/PrimeClient/PrimeClient.csproj",
+        "projectName": "PrimeClient",
+        "projectPath": "/Users/frag-games/Desktop/grpc/Client/PrimeClient/PrimeClient.csproj",
+        "packagesPath": "/Users/frag-games/.nuget/packages/",
+        "outputPath": "/Users/frag-games/Desktop/grpc/Client/PrimeClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/frag-games/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.24.4, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.58.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.59.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

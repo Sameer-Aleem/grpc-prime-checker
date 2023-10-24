@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ej5C5A7PWfWR7tovgC+ItVOT86/XaKSTle0pE7mgnNWAQM5yDSImzJZ6K921RQtZPQtXhiiTc/4HRaRVwtjRKw==",
+  "success": true,
+  "projectFilePath": "/Users/frag-games/Desktop/grpc/Client/PrimeClient/PrimeClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/frag-games/.nuget/packages/google.protobuf/3.24.4/google.protobuf.3.24.4.nupkg.sha512",
+    "/Users/frag-games/.nuget/packages/grpc.core.api/2.58.0/grpc.core.api.2.58.0.nupkg.sha512",
+    "/Users/frag-games/.nuget/packages/grpc.net.client/2.58.0/grpc.net.client.2.58.0.nupkg.sha512",
+    "/Users/frag-games/.nuget/packages/grpc.net.common/2.58.0/grpc.net.common.2.58.0.nupkg.sha512",
+    "/Users/frag-games/.nuget/packages/grpc.tools/2.59.0/grpc.tools.2.59.0.nupkg.sha512",
+    "/Users/frag-games/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
